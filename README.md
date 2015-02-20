@@ -4,4 +4,4 @@
 
 Sua rádio online com as melhores música do momento. A Coca-Cola FM tem uma grade de programação bem bacana, pra atender todos os gostos. Ela foi lançada durante o Rock in Rio, e já tem milhares de conexões por dia atualmente.
 
-![Coca-Cola FM Chrome App](https://lh4.googleusercontent.com/w3wYo8UmZN4r5c6Af8toaBE8ipUkwr0dkzec0NE5bPWZ5iRmnZwv59CjY07OvkLLkwLmdAC26ME=s640-h400-e365-rw)
+![Coca-Cola FM Chrome App](https://lh3.googleusercontent.com/--Pe4HohtjEE/VOeTY-eucUI/AAAAAAAAJZo/57MjR-dtPno/w574-h359-no/1.png)
