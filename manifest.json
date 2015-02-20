@@ -1,16 +1,16 @@
 {
   "manifest_version": 2,
-  "name": "Coca-ColaFM",
-  "short_name": "Coca-ColaFM",
-  "description": "",
-  "version": "0.0.1",
+  "name": "Coca-Cola FM",
+  "short_name": "Coca-Cola FM",
+  "description": "Sua rádio online com as melhores música do momento. A Coca-Cola FM tem uma grade de programação bem bacana, pra atender todos os gostos. Ela foi lançada durante o Rock in Rio, e já tem milhares de conexões por dia atualmente.",
+  "version": "1.0.0",
   "minimum_chrome_version": "38",
-
+  "author": "Rafael Corrêa Gomes",
   "icons": {
     "16": "assets/icon_16.png",
     "128": "assets/icon_128.png"
   },
-
+  "permissions": ["webview"],
   "app": {
     "background": {
       "scripts": ["background.js"]
