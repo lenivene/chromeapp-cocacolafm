@@ -1,1 +1,9 @@
 /* CSS file placeholder. */
+*{margin:0 auto;padding:0;}
+body{background:red;}
+#webview{width:280px; height:460px;display:block;}
+.footer{padding: 0.7em 1em 0;}
+.footer a,
+.version{float:left;display:block;width: 50%;color: white;}
+.version{text-align: right;}
+.footer a{text-align: left;}

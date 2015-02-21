@@ -1,13 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Coca-ColaFM</title>
+  <meta charset="UTF-8">
+  <title>Coca-Cola FM</title>
   <link rel="stylesheet" href="styles.css">
 </head>
-
 <body>
-  <h1 id="greeting"></h1>
+  <div class="mainWindow">
 
+
+  <webview id="webview" autosize="on" minwidth="280" minheight="460" src="http://www.cocacolafm.com.br/pt/coca-cola-fm/popup-ccfm-brasil/"></webview>
+  <footer class="footer">
+    <a href="https://github.com/rafaelstz/chromeapp-cocacolafm/issues" target="_blank">Sugestões</a>
+    <div class="version">Versão 1.0.0</div>
+  </footer>
   <script src="main.js"></script>
+
+  </div>
 </body>
 </html>
